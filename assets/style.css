@@ -5,6 +5,10 @@
   padding: 10px;
 }
 
+div {
+  margin: 10px;
+}
+
 .blog {
   background-color:#bababa;
   border-left: 10px solid grey;
