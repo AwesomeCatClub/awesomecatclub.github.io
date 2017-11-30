@@ -1,6 +1,9 @@
 .blog {
   background-color:#bababa;
   border-left: 10px solid grey;
+  margin: auto;
+  width: 80%;
+  padding: 10px;
 }
 
 .bsub {
