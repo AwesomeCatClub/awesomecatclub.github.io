@@ -52,6 +52,11 @@ h2 {
 p {
   font-family: 'Open Sans', sans-serif;
 }
+
+a {
+  font-family: 'Open Sans', sans-serif;
+}
+
 .blog {
   background-color:#bababa;
   border-left: 10px solid grey;
