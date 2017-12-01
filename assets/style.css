@@ -67,3 +67,10 @@ a {
 }
 
 
+body {
+  background-image: url(assets/cat.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
