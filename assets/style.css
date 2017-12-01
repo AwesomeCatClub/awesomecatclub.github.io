@@ -68,7 +68,7 @@ a {
 
 
 body {
-  background-image: url(assets/cats.jpg);
+  background-image: url(../assets/cats.jpg);
   background-position: center center;
   background-repeat: repeat-y;
   background-size: cover;
