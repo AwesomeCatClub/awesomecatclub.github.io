@@ -33,10 +33,6 @@
 }
 
 
-div {
-  margin: 10px;
-}
-
 h1 {
   font-family: 'Open Sans', sans-serif;
   
@@ -63,8 +59,11 @@ a {
   margin: auto;
   width: 80%;
   padding: 10px;
+  margin-bottom: 10px;
 }
 
 .bsub {
     font-size: 90%;
 }
+
+
