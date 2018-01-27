@@ -69,6 +69,5 @@ a {
 
 body {
   background-image: url(../assets/cat-left.jpg);
-  repeat: no-repeat;
   background-attachment: fixed;
 }
