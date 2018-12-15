@@ -2,7 +2,7 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>ACC > Chat Room</title>
+    <title id="tabtitle">ACC > Chat Room</title>
     <link rel="stylesheet" type="text/css" href="assets/style.css">
     <link rel="icon" href="assets/acc_64.png">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
@@ -40,7 +40,8 @@
 
 var droom = getParameterByName('room');
 document.getElementById('theading').innerHTML = 'Chat Room '+droom;
-
+document.getElementById('theading').innerHTML = 'ACC > Chat Room '+droom;
+  
 /**
 *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
